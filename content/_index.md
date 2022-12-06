@@ -33,22 +33,27 @@ sections:
       company_url: ""
       date_end: "2023-09-01"
       date_start: "2021-09-01"
-      description: |2-
-          Responsibilities include:
-          * Analysing
-          * Modelling
-          * Deploying
+      description: ""
       location: London, UK
       title: MPhil Linguistics
-    # - company: University College London
-    #   company_logo: ""
-    #   company_url: ""
-    #   date_end: "2021-8-01"
-    #   date_start: "2020-08-01"
-    #   description: NA
-    #   location: London, UK
-    #   title: MA Linguistics
+    - company: University College London
+      company_logo: ""
+      company_url: ""
+      date_end: "2021-09-01"
+      date_start: "2020-09-01"
+      description: ""
+      location: London, UK
+      title: MA Linguistics
+    - company: Wenzhou University
+      company_logo: ""
+      company_url: ""
+      date_end: "2020-06-01"
+      date_start: "2016-09-01"
+      description: ""
+      location: Wenzhou, Zhejiang, China
+      title: BA English (Teacher-training Oriented)
     title: Experience
+    
   design:
     columns: "2"
     
