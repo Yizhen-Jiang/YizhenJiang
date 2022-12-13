@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: Classic 
   font_size: L
 
 # SEO
@@ -32,7 +32,7 @@ appearance:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2022} Yizhen Jiang. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false

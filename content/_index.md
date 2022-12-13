@@ -24,38 +24,38 @@ sections:
 #       name: Photography
 #     title: Skills
 
-- block: Experience
-  content:
-    date_format: Jan 2006
-    items:
-    - company: University College London 
-      company_logo: ""
-      company_url: ""
-      date_end: "2023-09-01"
-      date_start: "2021-09-01"
-      description: ""
-      location: London, UK
-      title: MPhil Linguistics
-    - company: University College London
-      company_logo: ""
-      company_url: ""
-      date_end: "2021-09-01"
-      date_start: "2020-09-01"
-      description: ""
-      location: London, UK
-      title: MA Linguistics
-    - company: Wenzhou University
-      company_logo: ""
-      company_url: ""
-      date_end: "2020-06-01"
-      date_start: "2016-09-01"
-      description: ""
-      location: Wenzhou, Zhejiang, China
-      title: BA English (Teacher-training Oriented)
-    title: Experience
-    
-  design:
-    columns: "2"
+# - block: Experience
+#   content:
+#     date_format: Jan 2006
+#     items:
+#     - company: University College London 
+#       company_logo: ""
+#       company_url: ""
+#       date_end: "2023-09-01"
+#       date_start: "2021-09-01"
+#       description: ""
+#       location: London, UK
+#       title: MPhil Linguistics
+#     - company: University College London
+#       company_logo: ""
+#       company_url: ""
+#       date_end: "2021-09-01"
+#       date_start: "2020-09-01"
+#       description: ""
+#       location: London, UK
+#       title: MA Linguistics
+#     - company: Wenzhou University
+#       company_logo: ""
+#       company_url: ""
+#       date_end: "2020-06-01"
+#       date_start: "2016-09-01"
+#       description: ""
+#       location: Wenzhou, Zhejiang, China
+#       title: BA English (Teacher-training Oriented)
+#     title: Experience
+#     
+#   design:
+#     columns: "2"
     
 # - block: accomplishments
 #   content:
@@ -202,8 +202,8 @@ sections:
     #   postcode: WC1H
     #   region: CA
     #   street: 450 Serra Mall
-    appointment_url: https://calendly.com
-    autolink: true
+    # appointment_url: https://calendly.com
+    # autolink: true
     contact_links:
     # - icon: twitter
     #   icon_pack: fab
@@ -213,24 +213,24 @@ sections:
     #   icon_pack: fab
     #   link: skype:echo123?call
     #   name: Skype Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
+    # - icon: video
+    #   icon_pack: fas
+    #   link: https://zoom.com
+    #   name: Zoom Me
     # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
     email: yizhen.jiang.19@gmail.com
-    form:
-      formspree:
-        id: null
-      netlify:
-        captcha: false
-      provider: netlify
+    # form:
+    #   formspree:
+    #     id: null
+    #   netlify:
+    #     captcha: false
+    #   provider: netlify
     # office_hours:
     # - Monday 10:00 to 13:00
     # - Wednesday 09:00 to 10:00
     # phone: 888 888 88 88
     subtitle: null
-    text: Feel free to reach me using the following form. 
+    # text: Feel free to reach me using the following form. 
     title: Contact
   design:
     columns: "2"
