@@ -22,7 +22,7 @@ publishDate: 2022-12-06T18:42:36.350Z
 featured: false
 authors:
   - Yizhen Jiang
-  - Shiyu Ren
+  - Rebecca S. Ren
   - Yihang Shen
   - Richard Breheny
   - Paul Marty & Yasutada Sudo

@@ -39,5 +39,5 @@ first_name: Yizhen
 email: yizhen.jiang.19@gmail.com
 ---
 
-Hello! I am currently a second year MPhil student in Linguistics at University College London. My research interests center around Semantics, Pragmatics, and Psycholinguistics. I am interested in studying human language production and comprehension through language description and analysis, formal theory construction, psycholinguistic experiments, and computational modelling. 
+Hello! I am currently a second year MPhil student in Linguistics at University College London. My research interests center around Semantics, Pragmatics, and Psycholinguistics. I am interested in studying human language production and comprehension through language description and analysis, formal theory construction, psycholinguistic experiments, and computational modelling.
 {style="text-align: justify;"}
