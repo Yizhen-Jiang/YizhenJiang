@@ -12,20 +12,20 @@ abstract: Maldonado et al. \(2017) observe that the distributive interpretation
   priming effects, depending on speakers' baseline preferences. We argue that
   these findings undermine Maldonado et al.'s claim that their results evidence
   the existence of the silent distributivity operator in syntax.
-location: AC2022
-date: 2022-12-19T13:00:00Z
-date_end: 2022-12-19T15:00:00Z
-all_day: false
+location:
+date: 2022-12-19
+all_day: yes
 event: Amsterdam Colloquium 2022
 event_url: https://events.illc.uva.nl/AC/AC2022/
-publishDate: 2022-12-06T18:42:36.350Z
+publishDate: 
 featured: false
 authors:
   - Yizhen Jiang
   - Rebecca S. Ren
   - Yihang Shen
   - Richard Breheny
-  - Paul Marty & Yasutada Sudo
+  - Paul Marty 
+  - Yasutada Sudo
 address:
   city: Amsterdam
   country: Netherlands
