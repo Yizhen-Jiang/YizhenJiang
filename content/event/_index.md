@@ -3,6 +3,6 @@ cms_exclude: true
 header:
   caption: ""
   image: ""
-title: Recent & Upcoming Presentations
+title: Presentations
 view: 2
 ---
